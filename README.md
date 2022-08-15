@@ -1,6 +1,6 @@
 [![Gitter](https://badges.gitter.im/aztfmod/community.svg)](https://gitter.im/aztfmod/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-# Cloud Adoption Framework landing zones for Terraform - Platform starter template
+# Cloud Adoption Framework landing zones for Terraform - Platform starter template - Andrej
 
 Microsoft [Cloud Adoption Framework for Azure](https://aka.ms/caf) provides you with guidance and best practices to adopt Azure.
 
